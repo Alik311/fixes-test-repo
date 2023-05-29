@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66df51ac-697e-4138-9ee8-ca7e82d0f346" name="Changes" comment="add Readme">
+    <list default="true" id="66df51ac-697e-4138-9ee8-ca7e82d0f346" name="Changes" comment="add hello message">
       <change afterPath="$PROJECT_DIR$/secrete.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685392508601</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add hello message">
+      <created>1685392685374</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685392685374</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add hello message">
+      <created>1685392944197</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685392944197</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +84,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="add Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Readme" />
+    <MESSAGE value="add hello message" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hello message" />
   </component>
 </project>
